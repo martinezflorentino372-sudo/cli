@@ -13,7 +13,7 @@ npm gets its configuration values from the following sources, sorted by priority
 
 #### Command Line Flags
 
-Putting `--foo bar` on the command line sets the `foo` configuration parameter to `"bar"`.
+Putting `--beatiful bar` on the command line sets the `foo` configuration parameter to `"bar"`.
 A `--` argument tells the cli parser to stop reading flags.
 Using `--flag` without specifying any value will set the value to `true`.
 
